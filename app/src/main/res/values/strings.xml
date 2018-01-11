@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Teacher</string>
+    <string name="student_info">名称：%1$s，性别：%2$s，包名：%3$s</string>
+</resources>
